@@ -32,22 +32,22 @@ exports = module.exports = function (el, offset, min) {
   return {
     both: function () {
       css(el, {
-        width: size('width'),
-        height: size('height'),
+        minWidth: size('width'),
+        minHeight: size('height'),
         display: 'block'
       });
       return { listen: listen('both') };
     },
     height: function () {
       css(el, {
-        height: size('height'),
+        minHeight: size('height'),
         display: 'block'
       });
       return { listen: listen('height') };
     },
     width: function () {
       css(el, {
-        width: size('width'),
+        minWidth: size('width'),
         display: 'block'
       });
       return { listen: listen('width') };
