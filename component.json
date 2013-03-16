@@ -1,0 +1,22 @@
+{
+  "name": "maximize",
+  "repo": "luka5/maximize",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/query": "*",
+    "component/css": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "paths": [
+    "../"
+  ],
+  "local": [
+    "window-size"
+  ]
+}
