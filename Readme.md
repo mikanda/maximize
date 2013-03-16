@@ -15,7 +15,7 @@
       .both()
       .listen(); // => maximizes the element and listens on the window.resize event
     maximize(el, [30,20], 100)
-      .both(); // maximizes the element with minimum width/height 100px and expected ``width = 100%-30px`` and ``height = 100%-20px``.
+      .both(); // maximizes the element with minimum width/height 100px and expected width = 100%-30px and height = 100%-20px.
     maximize(el, 20)
       .height()
       .listen(); //maximizes the element with 100%-20px height and listens on resize.
