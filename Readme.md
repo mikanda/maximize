@@ -25,8 +25,8 @@
 #### maximize(el, [offset, minimum])
   Returns a new instance of ``Maximize``.
   ``el`` can be a element or a query string.
-  offset is discount to the browsers size and can be an array with width and height or a single value.
-  minimum is the minimum size of the element. It also can be an array.
+  ``offset`` is discount to the browsers size and can be an array with width and height or a single value.
+  ``minimum`` is the minimum size of the element. It can also be an array.
 
 #### Maximize#both()
   Maximizes the width and height of the instance.
