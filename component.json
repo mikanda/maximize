@@ -6,17 +6,12 @@
   "keywords": [],
   "dependencies": {
     "component/query": "*",
-    "component/css": "*"
+    "component/css": "*",
+    "luka5/window-size": "*"
   },
   "development": {},
   "license": "MIT",
   "scripts": [
     "index.js"
-  ],
-  "paths": [
-    "../"
-  ],
-  "local": [
-    "window-size"
   ]
 }
