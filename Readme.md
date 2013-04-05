@@ -7,7 +7,7 @@
 
 ## Installation
 
-    $ component install luka5/maximize
+    $ component install mikanda/maximize
 
 ## Examples
 
