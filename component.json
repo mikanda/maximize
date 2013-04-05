@@ -10,7 +10,7 @@
     "luka5/window-size": "*"
   },
   "development": {},
-  "license": "MIT",
+  "license": "LGPL",
   "scripts": [
     "index.js"
   ]

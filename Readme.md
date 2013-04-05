@@ -43,4 +43,4 @@
 
 ## License
 
-  MIT
+  LGPL
