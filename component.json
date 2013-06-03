@@ -1,7 +1,7 @@
 {
   "name": "maximize",
   "repo": "mikanda/maximize",
-  "description": "",
+  "description": "Maximizes the given element or query string and listens on window.resize.",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
